@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "icon": "✓",
+        "task": "Hit the gym",
+        "emoticon": "🏅"
+    },
+    {
+        "id": 2,
+        "icon": "✓",
+        "task": "Pay the bills",
+        "emoticon": "💰"
+    },
+    {
+        "id": 3,
+        "icon": "✓",
+        "task": "Meet George",
+        "emoticon": "😬"
+    }
+]
